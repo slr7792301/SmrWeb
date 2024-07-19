@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SmrWeb/static/css/main.1c001120.css",
-    "main.js": "/SmrWeb/static/js/main.075c34fb.js",
+    "main.css": "/SmrWeb/static/css/main.9d3e802b.css",
+    "main.js": "/SmrWeb/static/js/main.8ef495bc.js",
     "static/js/845.6510d88d.chunk.js": "/SmrWeb/static/js/845.6510d88d.chunk.js",
     "static/media/sample3.png": "/SmrWeb/static/media/sample3.f28a573b3718e0ee3537.png",
     "static/media/sample2.png": "/SmrWeb/static/media/sample2.0e4975c1783ffa76980c.png",
@@ -10,12 +10,12 @@
     "static/media/sample1.png": "/SmrWeb/static/media/sample1.50714e80a8a968238649.png",
     "static/media/avatar.png": "/SmrWeb/static/media/avatar.0c0bb4dbcd62c503f1e5.png",
     "index.html": "/SmrWeb/index.html",
-    "main.1c001120.css.map": "/SmrWeb/static/css/main.1c001120.css.map",
-    "main.075c34fb.js.map": "/SmrWeb/static/js/main.075c34fb.js.map",
+    "main.9d3e802b.css.map": "/SmrWeb/static/css/main.9d3e802b.css.map",
+    "main.8ef495bc.js.map": "/SmrWeb/static/js/main.8ef495bc.js.map",
     "845.6510d88d.chunk.js.map": "/SmrWeb/static/js/845.6510d88d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c001120.css",
-    "static/js/main.075c34fb.js"
+    "static/css/main.9d3e802b.css",
+    "static/js/main.8ef495bc.js"
   ]
 }
