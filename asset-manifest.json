@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SmrWeb/static/css/main.1c001120.css",
+    "main.js": "/SmrWeb/static/js/main.2c35c01b.js",
+    "static/js/845.6510d88d.chunk.js": "/SmrWeb/static/js/845.6510d88d.chunk.js",
+    "static/media/sample3.png": "/SmrWeb/static/media/sample3.f28a573b3718e0ee3537.png",
+    "static/media/sample2.png": "/SmrWeb/static/media/sample2.0e4975c1783ffa76980c.png",
+    "static/media/sample4.png": "/SmrWeb/static/media/sample4.93cfefaea15d093d5227.png",
+    "static/media/sample5.png": "/SmrWeb/static/media/sample5.058290b3a0e2fded547c.png",
+    "static/media/sample1.png": "/SmrWeb/static/media/sample1.50714e80a8a968238649.png",
+    "static/media/avatar.png": "/SmrWeb/static/media/avatar.0c0bb4dbcd62c503f1e5.png",
+    "index.html": "/SmrWeb/index.html",
+    "main.1c001120.css.map": "/SmrWeb/static/css/main.1c001120.css.map",
+    "main.2c35c01b.js.map": "/SmrWeb/static/js/main.2c35c01b.js.map",
+    "845.6510d88d.chunk.js.map": "/SmrWeb/static/js/845.6510d88d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c001120.css",
+    "static/js/main.2c35c01b.js"
+  ]
+}
