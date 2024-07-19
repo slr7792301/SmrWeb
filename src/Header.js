@@ -1,5 +1,6 @@
 import { Helmet } from 'react-helmet';
 import avatar from './img/avatar.png';
+import hr from './img/hr.png';
 import IconWithTooltipAndCopy from './IconWithTooltipAndCopy';
 
 export default function Header() {
@@ -33,20 +34,29 @@ export default function Header() {
                             </defs>
                         </svg>
                         { IconWithTooltipAndCopy() }　
-                        <a href="https://www.facebook.com" style={{color:'black'}}>
+                        <a href="https://www.facebook.com/profile.php?id=100084104310249" style={{color:'black'}}>
                             <svg className="icon icon-facebook"><use xlinkHref="#icon-facebook"></use></svg>
                         </a>　
-                        <a href="https://www.twitter.com" style={{color:'black'}}>
+                        <a href="https://twitter.com/a7792301" style={{color:'black'}}>
                             <svg className="icon icon-twitter"><use xlinkHref="#icon-twitter"></use></svg>
                         </a>
                         </div>
                     </div>
-                    <div className="col-6" style={{padding: '65px 0px 65px 0px', color:'white'}}>⚠️請勿轉載、二次加工修改利用</div>
+                    <div className="col-6" style={{padding: '60px 0px 60px 0px', color:'white'}}>
+                        <p>▂▂▂</p>
+                        <p>
+                            Artist ｜申煙<br />
+                            -<br />
+                            隨緣接稿<br />
+                            ⚠️請勿轉載、二次加工修改利用<br />
+                        </p>
+                        <p>▂▂▂</p>
+                    </div>
                 </div>
             </div>
 
+            <img alt='hr' src={hr} style={{display: 'block', margin: 'auto'}} />
             <br />
-            <hr />
         </div>
     );
 }

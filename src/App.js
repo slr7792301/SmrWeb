@@ -1,8 +1,9 @@
 import './App.css';
-import { HashRouter as Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import Header from './Header';
 import Home from './Home';
 import Commission from './Commission';
+import Footer from './Footer';
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
         <Route path='/SmrWeb/' element={ <Home/> } />
         <Route path='/SmrWeb/commission' element={ <Commission/> } />
       </Routes>
+      <Footer />
     </div>
   );
 }

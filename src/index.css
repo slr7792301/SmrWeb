@@ -41,3 +41,8 @@ li {
 .nav-link {
   color: hsl(97, 8%, 41%);
 }
+
+.footer {
+  color: #999999;
+  text-align: center;
+}
