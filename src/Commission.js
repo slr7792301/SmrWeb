@@ -11,10 +11,10 @@ export default function Commission() {
                             <div className="col-md-2">
                                 <ul className="nav nav-pills flex-column">
                                     <li className="nav-item">
-                                    <Link className="nav-link" to='/'>Home</Link>
+                                    <Link className="nav-link" to='/SmrWeb'>Home</Link>
                                     </li>
                                     <li className="nav-item">
-                                    <Link className="nav-link active" to='/commissiom'>Commission</Link>
+                                    <Link className="nav-link active" to='/SmrWeb/commission'>Commission</Link>
                                     </li>
                                     <li className="nav-item">
                                     <a className='nav-link' href='https://forms.gle/p8YqShe1n71fTZur9'>Form</a>
