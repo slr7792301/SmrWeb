@@ -9,8 +9,8 @@ export default function App() {
     <div className='App'>
       <Header />
       <Routes>
-        <Route path='/' element={ <Home/> } />
-        <Route path='/commission' element={ <Commission/> } />
+        <Route path='SmrilluWeb/' element={ <Home/> } />
+        <Route path='SmrilluWeb/commission' element={ <Commission/> } />
       </Routes>
     </div>
   );
